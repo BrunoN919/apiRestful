@@ -4,10 +4,6 @@ API Restful.
 PHP ver 7.4.3
 Lumen ver 7.2.1
 
-Link para rotas Insomnia(Arquivo para Exportação)
-```
-https://drive.google.com/open?id=1Qxn2Z1Ln2O8y_EUzZkpLZfqJQMk3LZoV
-```
 ## Comandos Necessários antes da excução do projeto
 ```
 php artisan db:seed
